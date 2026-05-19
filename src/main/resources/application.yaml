@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ejemplo-spring-boot-redis-desde-cero
+  data:
+    redis:
+      host: localhost
+      port: 6379
